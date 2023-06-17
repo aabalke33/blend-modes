@@ -1,5 +1,5 @@
 # blend-modes
-Create a composite image from combining two images using blend modes.
+Create a composite image from combining two images using blend modes in native Java.
 
 The Blend Modes package enables blending different images, or image layers, by means of blend modes. These modes are commonly found in graphics programs like Adobe Photoshop or GIMP.
 
