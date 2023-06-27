@@ -26,6 +26,10 @@ The intensity of blending can be controlled by means of an opacity parameter tha
 
 This package does not require JavaFX. It is built using the Java AWT API only.
 
+## Youtube Video Breakdown
+
+[<img src="https://user-images.githubusercontent.com/22086435/249031490-0a9e877c-32fe-40d0-96d1-160231d4a98c.jpg" width="50%">](https://www.youtube.com/watch?v=mvTyBnEWVW0)
+
 ## Usage
 The blend mode methods take image data expressed as a BufferedImage. An example is provided below for a standard method of creating and inputting BufferedImage parameters.
 
